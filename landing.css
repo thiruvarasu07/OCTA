@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/04/Abstract-Website-Background.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+h1{
+    margin-left: 30px;
+    color: #FFFFFF;
+}
+.tags{
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    top:35px;
+    right: 50px;
+}
+.tags a{
+    text-decoration: none;
+    float: right;
+    color: #FFFFFF;
+}
+.name h1{
+    position: absolute;
+    top: 33%;
+    left: 25%;
+    font-size: 90px;
+}
+.profiles{
+    position: absolute;
+    bottom: 70px;
+    left: 35%;
+    padding-left: 30px;
+}
+.profiles a{
+    padding-left: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+}
